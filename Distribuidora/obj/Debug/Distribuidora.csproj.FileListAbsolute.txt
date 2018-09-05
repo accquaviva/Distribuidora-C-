@@ -1,0 +1,16 @@
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\bin\Debug\Distribuidora.exe.config
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\bin\Debug\Distribuidora.exe
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\bin\Debug\Distribuidora.pdb
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\obj\Debug\Distribuidora.csprojAssemblyReference.cache
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\obj\Debug\Distribuidora.Properties.Resources.resources
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\obj\Debug\Distribuidora.csproj.GenerateResource.cache
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\obj\Debug\Distribuidora.csproj.CoreCompileInputs.cache
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\obj\Debug\Distribuidora.exe
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\obj\Debug\Distribuidora.pdb
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\obj\Debug\Distribuidora.br.com.distribuidora.tela.form_cad_produto.resources
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\obj\Debug\Distribuidora.form_inicio.resources
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\bin\Debug\EntityFramework.dll
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\bin\Debug\EntityFramework.xml
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ponto\source\repos\Distribuidora\Distribuidora\obj\Debug\Distribuidora.csproj.CopyComplete
